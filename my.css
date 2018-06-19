@@ -16,7 +16,7 @@ h2{
 color:white;
 background:mediumorchid;
 font-size:40px;
-font-family:Helvetica;
+
 }
 ul {
 font-size:20px;
@@ -39,8 +39,7 @@ h1
 	background:lightseagreen; 
 	color:white;
 	font-size:60px;
-	font-family:Helvetica;
-	font-weight:bold;
+	font-weight:bold; 
 }
 #recipe ul{
 	color:olive;
